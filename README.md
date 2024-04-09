@@ -28,9 +28,7 @@ The test results of CDA for some categories on the MVTec AD dataset are shown he
 
 ![Results](/Image/result_map.jpg)  
 Next is the Anomaly score histogram and binary kernel density estimation graph.
-!
-
-
+![Anomaly_score](/Image/savefig.jpg)
 
 # Conclusion
 In this paper, an unsupervised knowledge distillation model with cross distillation paradigm is proposed for industrial anomaly detection.Compared with the previous work, we have provided new ideas for distillation methods.
