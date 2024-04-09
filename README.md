@@ -27,7 +27,8 @@ Compared with traditional distillation methods, CDA introduces a simple cross-di
 The test results of CDA for some categories on the MVTec AD dataset are shown here.(a)-(e) are: the original, the label is covered on the original, the ground truth, the resulting heat map, the heat map is covered on the original.  
 
 ![Results](/Image/result_map.jpg)  
-Next is the Anomaly score histogram and binary kernel density estimation graph.
+Next is the Anomaly score histogram and binary kernel density estimation graph.  
+
 ![Anomaly_score](/Image/savefig.jpg)
 
 # Conclusion
