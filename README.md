@@ -24,10 +24,15 @@ Compared with traditional distillation methods, CDA introduces a simple cross-di
 
   
 ## Visualization
-The test results of CDA for some categories on the MVTec AD dataset are shown here.
+The test results of CDA for some categories on the MVTec AD dataset are shown here.(a)-(e) are: the original, the label is covered on the original, the ground truth, the resulting heat map, the heat map is covered on the original.  
+
+![Results](/Image/result_map.jpg)  
+Next is the Anomaly score histogram and binary kernel density estimation graph.
+!
+
 
 
 # Conclusion
-
+In this paper, an unsupervised knowledge distillation model with cross distillation paradigm is proposed for industrial anomaly detection.Compared with the previous work, we have provided new ideas for distillation methods.
 
 
