@@ -18,9 +18,11 @@ Compared with traditional distillation methods, CDA introduces a simple cross-di
 
 # Results
 ## Quantitative analysis
-|| Model || I-AUROC || P-AUROC || PRO  ||
-|| PFM   || 97.5    || 97.4    || 93.0 ||
-|| CDA   || 98.1    || 97.8    || 93.3 ||
+|| Model || I-AUROC || P-AUROC || PRO  ||  
+
+|| PFM     || 97.5      || 97.4      || 93.0 ||  
+
+|| CDA     || 98.1      || 97.8      || 93.3 ||
 
   
 ## Visualization
